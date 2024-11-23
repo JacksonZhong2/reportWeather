@@ -1,4 +1,3 @@
-# reportWeather
 ## Noob使用C++Qt编写的天气预报项目
 # 项目介绍
 这是一款简易的天气预报软件，可查看国内城市近七日天气情况
@@ -7,3 +6,6 @@
 ## 不足
 1. 城市显示有问题，当搜索县、区等城市，任然显示xx市，而不是xx县
 2. 退出按钮待优化
+# 效果演示
+![828c57f51451fe3d59b2b11d363b428](https://github.com/user-attachments/assets/43cc1e5f-7927-49f8-a7f1-fa4317927fde)
+![image](https://github.com/user-attachments/assets/67932314-1a11-4c23-bf82-5a2f61c6d501)
