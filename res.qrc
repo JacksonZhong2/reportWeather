@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/duoyun.png</file>
+        <file>res/duoyun_qing.png</file>
+        <file>res/feng.png</file>
+        <file>res/qing.png</file>
+        <file>res/qing_duoyun.png</file>
+        <file>res/qing_yin.png</file>
+        <file>res/qing_yu.png</file>
+        <file>res/search.png</file>
+        <file>res/xue.png</file>
+        <file>res/yintian.png</file>
+        <file>res/yu.png</file>
+        <file>res/yu_qing.png</file>
+        <file>res/fengxiang.png</file>
+        <file>res/kongqizhiliang.png</file>
+        <file>res/pm2.5.png</file>
+        <file>res/shidu.png</file>
+        <file>res/close.png</file>
+        <file>res/baoyu.png</file>
+        <file>res/dabaoyu.png</file>
+        <file>res/dafeng_qing.png</file>
+        <file>res/daxue.png</file>
+        <file>res/dayu.png</file>
+        <file>res/leizhenyu.png</file>
+        <file>res/mai.png</file>
+        <file>res/qing_dafeng.png</file>
+        <file>res/qing_xue.png</file>
+        <file>res/qing_yujiaxue.png</file>
+        <file>res/shachenbao.png</file>
+        <file>res/tedabaoyu.png</file>
+        <file>res/wu.png</file>
+        <file>res/xiaoxue.png</file>
+        <file>res/xiaoyu.png</file>
+        <file>res/xue_qing.png</file>
+        <file>res/yin_qing.png</file>
+        <file>res/yujiaxue.png</file>
+        <file>res/undefined.png</file>
+    </qresource>
+</RCC>
